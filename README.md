@@ -1,5 +1,7 @@
 # ECE-Economy notes
 
+## Important notes
+
 - ### I will take notes from *"Engineering Economy for LELAND BLANK*" Book
 
 - ### My notes for Engineering Economy course
